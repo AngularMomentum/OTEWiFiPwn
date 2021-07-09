@@ -1,5 +1,5 @@
-## OTEWiFiPwn has changed addresses
+## OTEWiFiPwn won't receive any updates
 
-### New Address: [https://kernzerfall.github.io/OTEWiFiPwn](https://kernzerfall.github.io/OTEWiFiPwn)
+### Last update: 2020
 
-<script>document.addEventListener('DOMContentLoaded',()=>{var b=document.getElementsByClassName('btn')[0]; b.innerText="New Address"; b.href="https://kernzerfall.github.io/OTEWiFiPwn";});</script>
+<script>document.addEventListener('DOMContentLoaded',()=>{var b=document.getElementsByClassName('btn')[0]; b.innerText="Last Version"; b.href="https://kernzerfall.github.io/OTEWiFiPwn";});</script>
